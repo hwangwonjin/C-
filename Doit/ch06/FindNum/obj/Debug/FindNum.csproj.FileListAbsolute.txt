@@ -1,0 +1,10 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch06\FindNum\bin\Debug\FindNum.exe.config
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch06\FindNum\bin\Debug\FindNum.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch06\FindNum\bin\Debug\FindNum.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch06\FindNum\obj\Debug\FindNum.csproj.AssemblyReference.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch06\FindNum\obj\Debug\FindNum.Form1.resources
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch06\FindNum\obj\Debug\FindNum.Properties.Resources.resources
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch06\FindNum\obj\Debug\FindNum.csproj.GenerateResource.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch06\FindNum\obj\Debug\FindNum.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch06\FindNum\obj\Debug\FindNum.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch06\FindNum\obj\Debug\FindNum.pdb

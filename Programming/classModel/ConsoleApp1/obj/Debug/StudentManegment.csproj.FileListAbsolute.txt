@@ -1,0 +1,7 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\ConsoleApp1\obj\Debug\StudentManegment.csproj.AssemblyReference.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\ConsoleApp1\obj\Debug\StudentManegment.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,7 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\IEnumerableTest\bin\Debug\IEnumerableTest.exe.config
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\IEnumerableTest\bin\Debug\IEnumerableTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\IEnumerableTest\bin\Debug\IEnumerableTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\IEnumerableTest\obj\Debug\IEnumerableTest.csproj.AssemblyReference.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\IEnumerableTest\obj\Debug\IEnumerableTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\IEnumerableTest\obj\Debug\IEnumerableTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\IEnumerableTest\obj\Debug\IEnumerableTest.pdb

@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkStreamServerTest\bin\Debug\net7.0\NetworkStreamServerTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkStreamServerTest\bin\Debug\net7.0\NetworkStreamServerTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkStreamServerTest\bin\Debug\net7.0\NetworkStreamServerTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkStreamServerTest\bin\Debug\net7.0\NetworkStreamServerTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkStreamServerTest\bin\Debug\net7.0\NetworkStreamServerTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkStreamServerTest\obj\Debug\net7.0\NetworkStreamServerTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkStreamServerTest\obj\Debug\net7.0\NetworkStreamServerTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkStreamServerTest\obj\Debug\net7.0\NetworkStreamServerTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkStreamServerTest\obj\Debug\net7.0\NetworkStreamServerTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkStreamServerTest\obj\Debug\net7.0\NetworkStreamServerTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkStreamServerTest\obj\Debug\net7.0\refint\NetworkStreamServerTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkStreamServerTest\obj\Debug\net7.0\NetworkStreamServerTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkStreamServerTest\obj\Debug\net7.0\NetworkStreamServerTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkStreamServerTest\obj\Debug\net7.0\ref\NetworkStreamServerTest.dll

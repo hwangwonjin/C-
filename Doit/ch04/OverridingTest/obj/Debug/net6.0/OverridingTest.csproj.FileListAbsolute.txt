@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\OverridingTest\bin\Debug\net6.0\OverridingTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\OverridingTest\bin\Debug\net6.0\OverridingTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\OverridingTest\bin\Debug\net6.0\OverridingTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\OverridingTest\bin\Debug\net6.0\OverridingTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\OverridingTest\bin\Debug\net6.0\OverridingTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\OverridingTest\obj\Debug\net6.0\OverridingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\OverridingTest\obj\Debug\net6.0\OverridingTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\OverridingTest\obj\Debug\net6.0\OverridingTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\OverridingTest\obj\Debug\net6.0\OverridingTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\OverridingTest\obj\Debug\net6.0\OverridingTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\OverridingTest\obj\Debug\net6.0\refint\OverridingTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\OverridingTest\obj\Debug\net6.0\OverridingTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\OverridingTest\obj\Debug\net6.0\OverridingTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\OverridingTest\obj\Debug\net6.0\ref\OverridingTest.dll

@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MutexTest\bin\Debug\net7.0\MutexTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MutexTest\bin\Debug\net7.0\MutexTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MutexTest\bin\Debug\net7.0\MutexTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MutexTest\bin\Debug\net7.0\MutexTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MutexTest\bin\Debug\net7.0\MutexTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MutexTest\obj\Debug\net7.0\MutexTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MutexTest\obj\Debug\net7.0\MutexTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MutexTest\obj\Debug\net7.0\MutexTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MutexTest\obj\Debug\net7.0\MutexTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MutexTest\obj\Debug\net7.0\MutexTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MutexTest\obj\Debug\net7.0\refint\MutexTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MutexTest\obj\Debug\net7.0\MutexTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MutexTest\obj\Debug\net7.0\MutexTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MutexTest\obj\Debug\net7.0\ref\MutexTest.dll

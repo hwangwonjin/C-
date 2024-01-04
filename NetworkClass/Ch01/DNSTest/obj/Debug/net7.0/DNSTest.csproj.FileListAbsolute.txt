@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\DNSTest\bin\Debug\net7.0\DNSTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\DNSTest\bin\Debug\net7.0\DNSTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\DNSTest\bin\Debug\net7.0\DNSTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\DNSTest\bin\Debug\net7.0\DNSTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\DNSTest\bin\Debug\net7.0\DNSTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\DNSTest\obj\Debug\net7.0\DNSTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\DNSTest\obj\Debug\net7.0\DNSTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\DNSTest\obj\Debug\net7.0\DNSTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\DNSTest\obj\Debug\net7.0\DNSTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\DNSTest\obj\Debug\net7.0\DNSTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\DNSTest\obj\Debug\net7.0\refint\DNSTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\DNSTest\obj\Debug\net7.0\DNSTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\DNSTest\obj\Debug\net7.0\DNSTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\DNSTest\obj\Debug\net7.0\ref\DNSTest.dll

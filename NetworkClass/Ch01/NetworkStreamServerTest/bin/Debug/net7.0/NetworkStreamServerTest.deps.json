@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "NetworkStreamServerTest/1.0.0": {
+        "runtime": {
+          "NetworkStreamServerTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetworkStreamServerTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

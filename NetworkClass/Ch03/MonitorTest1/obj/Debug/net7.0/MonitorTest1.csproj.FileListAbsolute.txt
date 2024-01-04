@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MonitorTest1\bin\Debug\net7.0\MonitorTest1.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MonitorTest1\bin\Debug\net7.0\MonitorTest1.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MonitorTest1\bin\Debug\net7.0\MonitorTest1.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MonitorTest1\bin\Debug\net7.0\MonitorTest1.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MonitorTest1\bin\Debug\net7.0\MonitorTest1.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MonitorTest1\obj\Debug\net7.0\MonitorTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MonitorTest1\obj\Debug\net7.0\MonitorTest1.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MonitorTest1\obj\Debug\net7.0\MonitorTest1.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MonitorTest1\obj\Debug\net7.0\MonitorTest1.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MonitorTest1\obj\Debug\net7.0\MonitorTest1.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MonitorTest1\obj\Debug\net7.0\refint\MonitorTest1.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MonitorTest1\obj\Debug\net7.0\MonitorTest1.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MonitorTest1\obj\Debug\net7.0\MonitorTest1.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\MonitorTest1\obj\Debug\net7.0\ref\MonitorTest1.dll

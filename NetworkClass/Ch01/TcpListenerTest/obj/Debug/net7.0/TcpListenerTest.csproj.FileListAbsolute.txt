@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpListenerTest\bin\Debug\net7.0\TcpListenerTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpListenerTest\bin\Debug\net7.0\TcpListenerTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpListenerTest\bin\Debug\net7.0\TcpListenerTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpListenerTest\bin\Debug\net7.0\TcpListenerTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpListenerTest\bin\Debug\net7.0\TcpListenerTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpListenerTest\obj\Debug\net7.0\TcpListenerTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpListenerTest\obj\Debug\net7.0\TcpListenerTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpListenerTest\obj\Debug\net7.0\TcpListenerTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpListenerTest\obj\Debug\net7.0\TcpListenerTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpListenerTest\obj\Debug\net7.0\TcpListenerTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpListenerTest\obj\Debug\net7.0\refint\TcpListenerTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpListenerTest\obj\Debug\net7.0\TcpListenerTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpListenerTest\obj\Debug\net7.0\TcpListenerTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpListenerTest\obj\Debug\net7.0\ref\TcpListenerTest.dll

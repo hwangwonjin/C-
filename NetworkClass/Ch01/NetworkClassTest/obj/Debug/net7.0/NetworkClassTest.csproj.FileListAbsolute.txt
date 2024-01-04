@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkClassTest\bin\Debug\net7.0\NetworkClassTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkClassTest\bin\Debug\net7.0\NetworkClassTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkClassTest\bin\Debug\net7.0\NetworkClassTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkClassTest\bin\Debug\net7.0\NetworkClassTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkClassTest\bin\Debug\net7.0\NetworkClassTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkClassTest\obj\Debug\net7.0\NetworkClassTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkClassTest\obj\Debug\net7.0\NetworkClassTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkClassTest\obj\Debug\net7.0\NetworkClassTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkClassTest\obj\Debug\net7.0\NetworkClassTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkClassTest\obj\Debug\net7.0\NetworkClassTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkClassTest\obj\Debug\net7.0\refint\NetworkClassTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkClassTest\obj\Debug\net7.0\NetworkClassTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkClassTest\obj\Debug\net7.0\NetworkClassTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\NetworkClassTest\obj\Debug\net7.0\ref\NetworkClassTest.dll

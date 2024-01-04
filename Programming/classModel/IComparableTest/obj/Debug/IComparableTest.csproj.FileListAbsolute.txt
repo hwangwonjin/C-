@@ -1,0 +1,7 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\IComparableTest\bin\Debug\IComparableTest.exe.config
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\IComparableTest\bin\Debug\IComparableTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\IComparableTest\bin\Debug\IComparableTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\IComparableTest\obj\Debug\IComparableTest.csproj.AssemblyReference.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\IComparableTest\obj\Debug\IComparableTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\IComparableTest\obj\Debug\IComparableTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\IComparableTest\obj\Debug\IComparableTest.pdb

@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\AccetTcpClientTest\bin\Debug\net7.0\AccetTcpClientTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\AccetTcpClientTest\bin\Debug\net7.0\AccetTcpClientTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\AccetTcpClientTest\bin\Debug\net7.0\AccetTcpClientTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\AccetTcpClientTest\bin\Debug\net7.0\AccetTcpClientTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\AccetTcpClientTest\bin\Debug\net7.0\AccetTcpClientTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\AccetTcpClientTest\obj\Debug\net7.0\AccetTcpClientTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\AccetTcpClientTest\obj\Debug\net7.0\AccetTcpClientTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\AccetTcpClientTest\obj\Debug\net7.0\AccetTcpClientTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\AccetTcpClientTest\obj\Debug\net7.0\AccetTcpClientTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\AccetTcpClientTest\obj\Debug\net7.0\AccetTcpClientTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\AccetTcpClientTest\obj\Debug\net7.0\refint\AccetTcpClientTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\AccetTcpClientTest\obj\Debug\net7.0\AccetTcpClientTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\AccetTcpClientTest\obj\Debug\net7.0\AccetTcpClientTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\AccetTcpClientTest\obj\Debug\net7.0\ref\AccetTcpClientTest.dll

@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\IF\IfTest\bin\Debug\net6.0\IfTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\IF\IfTest\bin\Debug\net6.0\IfTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\IF\IfTest\bin\Debug\net6.0\IfTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\IF\IfTest\bin\Debug\net6.0\IfTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\IF\IfTest\bin\Debug\net6.0\IfTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\IF\IfTest\obj\Debug\net6.0\IfTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\IF\IfTest\obj\Debug\net6.0\IfTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\IF\IfTest\obj\Debug\net6.0\IfTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\IF\IfTest\obj\Debug\net6.0\IfTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\IF\IfTest\obj\Debug\net6.0\IfTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\IF\IfTest\obj\Debug\net6.0\refint\IfTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\IF\IfTest\obj\Debug\net6.0\IfTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\IF\IfTest\obj\Debug\net6.0\IfTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\IF\IfTest\obj\Debug\net6.0\ref\IfTest.dll

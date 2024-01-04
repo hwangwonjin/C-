@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\lockTest2\bin\Debug\net7.0\lockTest2.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\lockTest2\bin\Debug\net7.0\lockTest2.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\lockTest2\bin\Debug\net7.0\lockTest2.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\lockTest2\bin\Debug\net7.0\lockTest2.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\lockTest2\bin\Debug\net7.0\lockTest2.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\lockTest2\obj\Debug\net7.0\lockTest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\lockTest2\obj\Debug\net7.0\lockTest2.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\lockTest2\obj\Debug\net7.0\lockTest2.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\lockTest2\obj\Debug\net7.0\lockTest2.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\lockTest2\obj\Debug\net7.0\lockTest2.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\lockTest2\obj\Debug\net7.0\refint\lockTest2.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\lockTest2\obj\Debug\net7.0\lockTest2.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\lockTest2\obj\Debug\net7.0\lockTest2.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\lockTest2\obj\Debug\net7.0\ref\lockTest2.dll

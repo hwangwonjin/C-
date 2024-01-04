@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientTest\bin\Debug\net7.0\TcpClientTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientTest\bin\Debug\net7.0\TcpClientTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientTest\bin\Debug\net7.0\TcpClientTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientTest\bin\Debug\net7.0\TcpClientTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientTest\bin\Debug\net7.0\TcpClientTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientTest\obj\Debug\net7.0\TcpClientTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientTest\obj\Debug\net7.0\TcpClientTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientTest\obj\Debug\net7.0\TcpClientTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientTest\obj\Debug\net7.0\TcpClientTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientTest\obj\Debug\net7.0\TcpClientTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientTest\obj\Debug\net7.0\refint\TcpClientTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientTest\obj\Debug\net7.0\TcpClientTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientTest\obj\Debug\net7.0\TcpClientTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientTest\obj\Debug\net7.0\ref\TcpClientTest.dll

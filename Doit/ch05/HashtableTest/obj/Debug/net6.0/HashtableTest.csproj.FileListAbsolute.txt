@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\HashtableTest\bin\Debug\net6.0\HashtableTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\HashtableTest\bin\Debug\net6.0\HashtableTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\HashtableTest\bin\Debug\net6.0\HashtableTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\HashtableTest\bin\Debug\net6.0\HashtableTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\HashtableTest\bin\Debug\net6.0\HashtableTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\HashtableTest\obj\Debug\net6.0\HashtableTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\HashtableTest\obj\Debug\net6.0\HashtableTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\HashtableTest\obj\Debug\net6.0\HashtableTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\HashtableTest\obj\Debug\net6.0\HashtableTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\HashtableTest\obj\Debug\net6.0\HashtableTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\HashtableTest\obj\Debug\net6.0\refint\HashtableTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\HashtableTest\obj\Debug\net6.0\HashtableTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\HashtableTest\obj\Debug\net6.0\HashtableTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\HashtableTest\obj\Debug\net6.0\ref\HashtableTest.dll

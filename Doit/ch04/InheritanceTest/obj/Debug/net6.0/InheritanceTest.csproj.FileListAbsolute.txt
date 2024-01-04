@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\InheritanceTest\bin\Debug\net6.0\InheritanceTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\InheritanceTest\bin\Debug\net6.0\InheritanceTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\InheritanceTest\bin\Debug\net6.0\InheritanceTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\InheritanceTest\bin\Debug\net6.0\InheritanceTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\InheritanceTest\bin\Debug\net6.0\InheritanceTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\InheritanceTest\obj\Debug\net6.0\InheritanceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\InheritanceTest\obj\Debug\net6.0\InheritanceTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\InheritanceTest\obj\Debug\net6.0\InheritanceTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\InheritanceTest\obj\Debug\net6.0\InheritanceTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\InheritanceTest\obj\Debug\net6.0\InheritanceTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\InheritanceTest\obj\Debug\net6.0\refint\InheritanceTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\InheritanceTest\obj\Debug\net6.0\InheritanceTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\InheritanceTest\obj\Debug\net6.0\InheritanceTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\InheritanceTest\obj\Debug\net6.0\ref\InheritanceTest.dll

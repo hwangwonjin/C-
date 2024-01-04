@@ -1,0 +1,10 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch06\loginTest\bin\Debug\loginTest.exe.config
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch06\loginTest\bin\Debug\loginTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch06\loginTest\bin\Debug\loginTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch06\loginTest\obj\Debug\loginTest.csproj.AssemblyReference.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch06\loginTest\obj\Debug\loginTest.Form1.resources
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch06\loginTest\obj\Debug\loginTest.Properties.Resources.resources
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch06\loginTest\obj\Debug\loginTest.csproj.GenerateResource.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch06\loginTest\obj\Debug\loginTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch06\loginTest\obj\Debug\loginTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch06\loginTest\obj\Debug\loginTest.pdb

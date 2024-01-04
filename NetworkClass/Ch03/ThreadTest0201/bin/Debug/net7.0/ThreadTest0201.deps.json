@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ThreadTest0201/1.0.0": {
+        "runtime": {
+          "ThreadTest0201.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreadTest0201/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

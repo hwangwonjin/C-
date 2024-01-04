@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamReadTest\bin\Debug\net7.0\StreamReadTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamReadTest\bin\Debug\net7.0\StreamReadTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamReadTest\bin\Debug\net7.0\StreamReadTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamReadTest\bin\Debug\net7.0\StreamReadTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamReadTest\bin\Debug\net7.0\StreamReadTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamReadTest\obj\Debug\net7.0\StreamReadTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamReadTest\obj\Debug\net7.0\StreamReadTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamReadTest\obj\Debug\net7.0\StreamReadTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamReadTest\obj\Debug\net7.0\StreamReadTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamReadTest\obj\Debug\net7.0\StreamReadTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamReadTest\obj\Debug\net7.0\refint\StreamReadTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamReadTest\obj\Debug\net7.0\StreamReadTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamReadTest\obj\Debug\net7.0\StreamReadTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamReadTest\obj\Debug\net7.0\ref\StreamReadTest.dll

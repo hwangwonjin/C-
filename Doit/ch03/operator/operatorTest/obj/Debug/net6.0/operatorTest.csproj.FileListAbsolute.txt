@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch03\operator\operatorTest\bin\Debug\net6.0\operatorTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch03\operator\operatorTest\bin\Debug\net6.0\operatorTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch03\operator\operatorTest\bin\Debug\net6.0\operatorTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch03\operator\operatorTest\bin\Debug\net6.0\operatorTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch03\operator\operatorTest\bin\Debug\net6.0\operatorTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch03\operator\operatorTest\obj\Debug\net6.0\operatorTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch03\operator\operatorTest\obj\Debug\net6.0\operatorTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch03\operator\operatorTest\obj\Debug\net6.0\operatorTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch03\operator\operatorTest\obj\Debug\net6.0\operatorTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch03\operator\operatorTest\obj\Debug\net6.0\operatorTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch03\operator\operatorTest\obj\Debug\net6.0\refint\operatorTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch03\operator\operatorTest\obj\Debug\net6.0\operatorTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch03\operator\operatorTest\obj\Debug\net6.0\operatorTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch03\operator\operatorTest\obj\Debug\net6.0\ref\operatorTest.dll

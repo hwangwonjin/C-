@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\IpHostEntryTest\bin\Debug\net7.0\IpHostEntryTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\IpHostEntryTest\bin\Debug\net7.0\IpHostEntryTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\IpHostEntryTest\bin\Debug\net7.0\IpHostEntryTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\IpHostEntryTest\bin\Debug\net7.0\IpHostEntryTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\IpHostEntryTest\bin\Debug\net7.0\IpHostEntryTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\IpHostEntryTest\obj\Debug\net7.0\IpHostEntryTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\IpHostEntryTest\obj\Debug\net7.0\IpHostEntryTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\IpHostEntryTest\obj\Debug\net7.0\IpHostEntryTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\IpHostEntryTest\obj\Debug\net7.0\IpHostEntryTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\IpHostEntryTest\obj\Debug\net7.0\IpHostEntryTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\IpHostEntryTest\obj\Debug\net7.0\refint\IpHostEntryTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\IpHostEntryTest\obj\Debug\net7.0\IpHostEntryTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\IpHostEntryTest\obj\Debug\net7.0\IpHostEntryTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\IpHostEntryTest\obj\Debug\net7.0\ref\IpHostEntryTest.dll

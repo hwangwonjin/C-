@@ -1,0 +1,7 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\typing\Bboard\Bboard\bin\Debug\Bboard.exe.config
+C:\Users\hwangwonjin\Desktop\workspace\C#\typing\Bboard\Bboard\bin\Debug\Bboard.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\typing\Bboard\Bboard\bin\Debug\Bboard.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\typing\Bboard\Bboard\obj\Debug\Bboard.csproj.AssemblyReference.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\typing\Bboard\Bboard\obj\Debug\Bboard.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\typing\Bboard\Bboard\obj\Debug\Bboard.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\typing\Bboard\Bboard\obj\Debug\Bboard.pdb

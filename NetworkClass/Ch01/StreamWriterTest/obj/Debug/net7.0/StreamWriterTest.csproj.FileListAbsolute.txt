@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamWriterTest\bin\Debug\net7.0\StreamWriterTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamWriterTest\bin\Debug\net7.0\StreamWriterTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamWriterTest\bin\Debug\net7.0\StreamWriterTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamWriterTest\bin\Debug\net7.0\StreamWriterTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamWriterTest\bin\Debug\net7.0\StreamWriterTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamWriterTest\obj\Debug\net7.0\StreamWriterTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamWriterTest\obj\Debug\net7.0\StreamWriterTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamWriterTest\obj\Debug\net7.0\StreamWriterTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamWriterTest\obj\Debug\net7.0\StreamWriterTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamWriterTest\obj\Debug\net7.0\StreamWriterTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamWriterTest\obj\Debug\net7.0\refint\StreamWriterTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamWriterTest\obj\Debug\net7.0\StreamWriterTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamWriterTest\obj\Debug\net7.0\StreamWriterTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\StreamWriterTest\obj\Debug\net7.0\ref\StreamWriterTest.dll

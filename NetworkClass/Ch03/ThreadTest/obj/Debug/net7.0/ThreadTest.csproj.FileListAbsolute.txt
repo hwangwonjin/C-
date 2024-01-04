@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest\bin\Debug\net7.0\ThreadTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest\bin\Debug\net7.0\ThreadTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest\bin\Debug\net7.0\ThreadTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest\bin\Debug\net7.0\ThreadTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest\bin\Debug\net7.0\ThreadTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest\obj\Debug\net7.0\ThreadTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest\obj\Debug\net7.0\ThreadTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest\obj\Debug\net7.0\ThreadTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest\obj\Debug\net7.0\ThreadTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest\obj\Debug\net7.0\ThreadTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest\obj\Debug\net7.0\refint\ThreadTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest\obj\Debug\net7.0\ThreadTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest\obj\Debug\net7.0\ThreadTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest\obj\Debug\net7.0\ref\ThreadTest.dll

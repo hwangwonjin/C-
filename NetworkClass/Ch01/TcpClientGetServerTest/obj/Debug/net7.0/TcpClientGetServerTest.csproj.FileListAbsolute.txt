@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientGetServerTest\bin\Debug\net7.0\TcpClientGetServerTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientGetServerTest\bin\Debug\net7.0\TcpClientGetServerTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientGetServerTest\bin\Debug\net7.0\TcpClientGetServerTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientGetServerTest\bin\Debug\net7.0\TcpClientGetServerTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientGetServerTest\bin\Debug\net7.0\TcpClientGetServerTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientGetServerTest\obj\Debug\net7.0\TcpClientGetServerTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientGetServerTest\obj\Debug\net7.0\TcpClientGetServerTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientGetServerTest\obj\Debug\net7.0\TcpClientGetServerTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientGetServerTest\obj\Debug\net7.0\TcpClientGetServerTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientGetServerTest\obj\Debug\net7.0\TcpClientGetServerTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientGetServerTest\obj\Debug\net7.0\refint\TcpClientGetServerTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientGetServerTest\obj\Debug\net7.0\TcpClientGetServerTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientGetServerTest\obj\Debug\net7.0\TcpClientGetServerTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpClientGetServerTest\obj\Debug\net7.0\ref\TcpClientGetServerTest.dll

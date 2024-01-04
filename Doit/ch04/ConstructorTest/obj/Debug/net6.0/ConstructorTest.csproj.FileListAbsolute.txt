@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\ConstructorTest\bin\Debug\net6.0\ConstructorTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\ConstructorTest\bin\Debug\net6.0\ConstructorTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\ConstructorTest\bin\Debug\net6.0\ConstructorTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\ConstructorTest\bin\Debug\net6.0\ConstructorTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\ConstructorTest\bin\Debug\net6.0\ConstructorTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\ConstructorTest\obj\Debug\net6.0\ConstructorTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\ConstructorTest\obj\Debug\net6.0\ConstructorTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\ConstructorTest\obj\Debug\net6.0\ConstructorTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\ConstructorTest\obj\Debug\net6.0\ConstructorTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\ConstructorTest\obj\Debug\net6.0\ConstructorTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\ConstructorTest\obj\Debug\net6.0\refint\ConstructorTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\ConstructorTest\obj\Debug\net6.0\ConstructorTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\ConstructorTest\obj\Debug\net6.0\ConstructorTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch04\ConstructorTest\obj\Debug\net6.0\ref\ConstructorTest.dll

@@ -1,0 +1,7 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\AbstractTest\bin\Debug\AbstractTest.exe.config
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\AbstractTest\bin\Debug\AbstractTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\AbstractTest\bin\Debug\AbstractTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\AbstractTest\obj\Debug\AbstractTest.csproj.AssemblyReference.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\AbstractTest\obj\Debug\AbstractTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\AbstractTest\obj\Debug\AbstractTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\Programming\classModel\AbstractTest\obj\Debug\AbstractTest.pdb

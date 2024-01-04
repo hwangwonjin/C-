@@ -1,0 +1,38 @@
+﻿@model List<TestModel>
+@{
+	var x = ViewBag.x;
+	// var list = ViewData["list"] as List<TestModel>;  방법1
+}
+<div>
+	테스트입니다.
+</div>
+
+<table class ="table">
+	<thead>
+		<tr>
+			<th>X</th>
+			<th>Y</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>@item.X</td>
+				<td>@item.Y</td>
+			</tr>
+		}
+	</tbody>
+</table>
+
+@* @foreach (var item in Model)
+{
+	<div>
+		X = @item.X
+	</div>
+
+	<div>
+		y = @item.Y
+	</div>
+}
+ *@

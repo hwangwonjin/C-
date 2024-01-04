@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamClientTest\bin\Debug\net7.0\TcpNetworkStreamClientTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamClientTest\bin\Debug\net7.0\TcpNetworkStreamClientTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamClientTest\bin\Debug\net7.0\TcpNetworkStreamClientTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamClientTest\bin\Debug\net7.0\TcpNetworkStreamClientTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamClientTest\bin\Debug\net7.0\TcpNetworkStreamClientTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamClientTest\obj\Debug\net7.0\TcpNetworkStreamClientTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamClientTest\obj\Debug\net7.0\TcpNetworkStreamClientTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamClientTest\obj\Debug\net7.0\TcpNetworkStreamClientTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamClientTest\obj\Debug\net7.0\TcpNetworkStreamClientTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamClientTest\obj\Debug\net7.0\TcpNetworkStreamClientTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamClientTest\obj\Debug\net7.0\refint\TcpNetworkStreamClientTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamClientTest\obj\Debug\net7.0\TcpNetworkStreamClientTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamClientTest\obj\Debug\net7.0\TcpNetworkStreamClientTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamClientTest\obj\Debug\net7.0\ref\TcpNetworkStreamClientTest.dll

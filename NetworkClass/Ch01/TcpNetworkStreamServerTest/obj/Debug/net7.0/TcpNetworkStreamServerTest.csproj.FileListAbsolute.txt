@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamServerTest\bin\Debug\net7.0\TcpNetworkStreamServerTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamServerTest\bin\Debug\net7.0\TcpNetworkStreamServerTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamServerTest\bin\Debug\net7.0\TcpNetworkStreamServerTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamServerTest\bin\Debug\net7.0\TcpNetworkStreamServerTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamServerTest\bin\Debug\net7.0\TcpNetworkStreamServerTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamServerTest\obj\Debug\net7.0\TcpNetworkStreamServerTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamServerTest\obj\Debug\net7.0\TcpNetworkStreamServerTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamServerTest\obj\Debug\net7.0\TcpNetworkStreamServerTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamServerTest\obj\Debug\net7.0\TcpNetworkStreamServerTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamServerTest\obj\Debug\net7.0\TcpNetworkStreamServerTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamServerTest\obj\Debug\net7.0\refint\TcpNetworkStreamServerTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamServerTest\obj\Debug\net7.0\TcpNetworkStreamServerTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamServerTest\obj\Debug\net7.0\TcpNetworkStreamServerTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch01\TcpNetworkStreamServerTest\obj\Debug\net7.0\ref\TcpNetworkStreamServerTest.dll

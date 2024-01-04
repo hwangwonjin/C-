@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ArrayTest\bin\Debug\net6.0\ArrayTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ArrayTest\bin\Debug\net6.0\ArrayTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ArrayTest\bin\Debug\net6.0\ArrayTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ArrayTest\bin\Debug\net6.0\ArrayTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ArrayTest\bin\Debug\net6.0\ArrayTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ArrayTest\obj\Debug\net6.0\ArrayTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ArrayTest\obj\Debug\net6.0\ArrayTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ArrayTest\obj\Debug\net6.0\ArrayTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ArrayTest\obj\Debug\net6.0\ArrayTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ArrayTest\obj\Debug\net6.0\ArrayTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ArrayTest\obj\Debug\net6.0\refint\ArrayTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ArrayTest\obj\Debug\net6.0\ArrayTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ArrayTest\obj\Debug\net6.0\ArrayTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ArrayTest\obj\Debug\net6.0\ref\ArrayTest.dll

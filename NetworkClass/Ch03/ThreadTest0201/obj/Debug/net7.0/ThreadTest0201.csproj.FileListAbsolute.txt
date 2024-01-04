@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest0201\bin\Debug\net7.0\ThreadTest0201.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest0201\bin\Debug\net7.0\ThreadTest0201.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest0201\bin\Debug\net7.0\ThreadTest0201.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest0201\bin\Debug\net7.0\ThreadTest0201.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest0201\bin\Debug\net7.0\ThreadTest0201.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest0201\obj\Debug\net7.0\ThreadTest0201.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest0201\obj\Debug\net7.0\ThreadTest0201.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest0201\obj\Debug\net7.0\ThreadTest0201.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest0201\obj\Debug\net7.0\ThreadTest0201.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest0201\obj\Debug\net7.0\ThreadTest0201.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest0201\obj\Debug\net7.0\refint\ThreadTest0201.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest0201\obj\Debug\net7.0\ThreadTest0201.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest0201\obj\Debug\net7.0\ThreadTest0201.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\NetworkClass\Ch03\ThreadTest0201\obj\Debug\net7.0\ref\ThreadTest0201.dll

@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ExceptionTest\bin\Debug\net6.0\ExceptionTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ExceptionTest\bin\Debug\net6.0\ExceptionTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ExceptionTest\bin\Debug\net6.0\ExceptionTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ExceptionTest\bin\Debug\net6.0\ExceptionTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ExceptionTest\bin\Debug\net6.0\ExceptionTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ExceptionTest\obj\Debug\net6.0\ExceptionTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ExceptionTest\obj\Debug\net6.0\ExceptionTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ExceptionTest\obj\Debug\net6.0\ExceptionTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ExceptionTest\obj\Debug\net6.0\ExceptionTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ExceptionTest\obj\Debug\net6.0\ExceptionTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ExceptionTest\obj\Debug\net6.0\refint\ExceptionTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ExceptionTest\obj\Debug\net6.0\ExceptionTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ExceptionTest\obj\Debug\net6.0\ExceptionTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\ExceptionTest\obj\Debug\net6.0\ref\ExceptionTest.dll

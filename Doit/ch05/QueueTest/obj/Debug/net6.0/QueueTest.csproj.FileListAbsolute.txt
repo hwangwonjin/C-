@@ -1,0 +1,14 @@
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\QueueTest\bin\Debug\net6.0\QueueTest.exe
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\QueueTest\bin\Debug\net6.0\QueueTest.deps.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\QueueTest\bin\Debug\net6.0\QueueTest.runtimeconfig.json
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\QueueTest\bin\Debug\net6.0\QueueTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\QueueTest\bin\Debug\net6.0\QueueTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\QueueTest\obj\Debug\net6.0\QueueTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\QueueTest\obj\Debug\net6.0\QueueTest.AssemblyInfoInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\QueueTest\obj\Debug\net6.0\QueueTest.AssemblyInfo.cs
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\QueueTest\obj\Debug\net6.0\QueueTest.csproj.CoreCompileInputs.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\QueueTest\obj\Debug\net6.0\QueueTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\QueueTest\obj\Debug\net6.0\refint\QueueTest.dll
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\QueueTest\obj\Debug\net6.0\QueueTest.pdb
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\QueueTest\obj\Debug\net6.0\QueueTest.genruntimeconfig.cache
+C:\Users\hwangwonjin\Desktop\workspace\C#\ch05\QueueTest\obj\Debug\net6.0\ref\QueueTest.dll
