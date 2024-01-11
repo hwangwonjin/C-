@@ -1,0 +1,65 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+﻿<script src="~/lib/signalr/signalr.js"></script>
+<script>
+    var connection = new signalR.HubConnectionBuilder()
+        .withUrl("/PopupHub")
+        .withAutomaticReconnect()
+        .build();
+
+    var popupTimer;
+
+    connection.on("showPopup", function (message) {
+            // 서버로부터 메시지를 받아 모달 팝업을 표시
+            showPopup(message);
+            
+            // 타이머 설정 
+            if (popupTimer) {
+                clearTimeout(popupTimer);
+            }
+            popupTimer = setTimeout(hidePopup, 1000);
+        });
+
+        connection.start();
+
+    function showPopup(message) {
+        // 모달 팝업을 보여주는 작업을 수행
+        var popup = document.getElementById("popup");
+        var popupTime = document.getElementById("popupTime");
+        popupTime.textContent = message; // 메시지를 시간으로 대체
+        popup.style.display = "block";
+    }
+
+    function hidePopup() {
+        // 모달 팝업을 숨기는 작업을 수행
+        var popup = document.getElementById("popup");
+        popup.style.display = "none";
+    }
+
+    connection.onclose((error) => {
+        console.error("Connection closed:", error);
+    });
+
+    connection.onreconnecting((error) => {
+        console.warn("Connection reconnecting:", error);
+    });
+</script>
+
+<div id="user" class="login">
+    <form action="#" method="post">
+        <table border="0">
+            <tr>
+                <td><input type="text" name="uid" placeholder="아이디 입력" /></td>
+            </tr>
+            <tr>
+                <td><input type="password" name="pass" placeholder="비밀번호 입력" /></td>
+            </tr>
+        </table>
+        <input type="submit" class="btnLogin" value="로그인" />
+    </form>
+</div>
+<div id="popup" class="popup">
+    <p>현재 시간: <span id="popupTime"></span></p>
+</div>
+
