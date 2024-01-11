@@ -16,7 +16,7 @@ namespace ServerCount
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            //System.Text.Json ¾²Áö ¾Ê°í -> Newtonsoft.JsonConverter
+            // 의존성 주입
             services
                 .AddControllersWithViews();
 
