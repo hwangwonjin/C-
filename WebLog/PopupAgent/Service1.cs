@@ -17,6 +17,7 @@ namespace PopupAgent
         private Timer popupTimer;
         private DateTime lastPopupTime;
         private static readonly ILog log = LogManager.GetLogger(typeof(Service1));
+        //private CommunicationManager communicationManager;
 
         public Service1()
         {

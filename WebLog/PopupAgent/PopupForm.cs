@@ -13,7 +13,7 @@ using Label = System.Windows.Forms.Label;
 
 namespace PopupAgent
 {
-    internal class PopupForm : Form
+    public class PopupForm : Form
     {
         private Label label1;
         private static bool isPopupOpen = false;

@@ -103,6 +103,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CommunicationManager.cs" />
     <Compile Include="DatabaseHelper.cs" />
     <Compile Include="PopupForm.cs">
       <SubType>Form</SubType>
