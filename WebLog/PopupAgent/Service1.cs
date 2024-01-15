@@ -48,7 +48,6 @@ namespace PopupAgent
         {
             log.Debug("PopupTimerElapsed Start");
             // 타이머가 만료되면 호출되는 메서드
-            // 팝업을 띄우는 작업 수행
             ShowPopupIfNeeded();
         }
 
